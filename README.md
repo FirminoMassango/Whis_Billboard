@@ -9,8 +9,5 @@ This code is based in the billboard.py API
 
 <blockquote>pip install -r requirements.txt</blockquote>
 
-<ol>
-  <li>pip install -r requirements.txt</li>
-  <li>python whis_hotbillboard.py </li>
-</ol>
+<blockquote>python whis_hotbillboard.py </blockquote>
 
