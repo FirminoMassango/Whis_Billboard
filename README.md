@@ -7,8 +7,8 @@ This code is based in the billboard.py API
 
 <h5>To use the script first of all you must run these commands in your terminal:</h5>
 
-<ul>
+<ol>
   <li>pip install -r requirements.txt</li>
   <li>python whis_hotbillboard.py </li>
-</ul>
+</ol>
 
