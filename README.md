@@ -5,7 +5,7 @@ This is a script written in Python language. While coding my goal was to get the
 This code is based in the billboard.py API
 
 
-To use the script first of all you must run this command in your terminal: pip install billboard.py
+To use the script first of all you must run this command in your terminal: pip install -r requirements.txt
 
 And then run the command: python whis_hotbillboard.py 
 
