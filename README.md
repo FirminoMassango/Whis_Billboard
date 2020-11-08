@@ -11,3 +11,6 @@ This code is based in the billboard.py API
 
 <blockquote>python whis_hotbillboard.py </blockquote>
 
+
+<img src="2020-11-08.png">
+
